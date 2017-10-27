@@ -1,0 +1,10 @@
+config/local.php
+config/console-local.php
+/vendor/
+
+#comente eso para que pudieras ver todo el docker composer
+#/docker-compose.yml
+#.env
+
+*.swp
+.vimrc
