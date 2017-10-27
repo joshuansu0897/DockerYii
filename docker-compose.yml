@@ -10,7 +10,7 @@ services:
         environment:
             ENABLE_ENV_FILE: 1
             ENABLE_LOCALCONF: 1
-            API_TOKEN: "<TU GITHUB API>"
+            API_TOKEN: "<tu GITHUB API>"
 
 
         # For Apache based image:
